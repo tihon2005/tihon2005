@@ -12,6 +12,14 @@
 - 🔭 Изучаю iOS разработку самостоятельно и с помощью swiftbook'a.
 
 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tihonbazar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yato_n0ragami)
+
+---
+
+### 🤝 Социальные сети:
+<div id="badges">
+    <a href="https://www.linkedin.com/in/тихон-базар-043b2a262/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
 <!--
 **tihon2005/tihon2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
