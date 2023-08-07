@@ -13,7 +13,7 @@
 
 - ⚡️ Личные навыки: Хорошие навыки коммуникации, честность, умение находить общий язык с командой, ответсвенность, организация собственной работы, пунктуальность, креативность, скромность, стремление к саморазвитию.
 
-Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tihonbazar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yato_n0ragami) [![General badge](https://img.shields.io/badge/tihonbzr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tihonbazar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emo_kid2005) [![Gmail badge](https://img.shields.io/badge/tihonbzr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 ---
 
@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/тихон-базар-043b2a262/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/younglorrd" target="_blank">
+    <a href="https://t.me/emo_kid2005" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
 </div>
