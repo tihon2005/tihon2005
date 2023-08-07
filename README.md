@@ -13,7 +13,7 @@
 
 - ⚡️ Личные навыки: Хорошие навыки коммуникации, честность, умение находить общий язык с командой, ответсвенность, организация собственной работы, пунктуальность, креативность, скромность, стремление к саморазвитию.
 
-Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tihonbazar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yato_n0ragami) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:bazar.tih@yandex.ru)
+Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tihonbazar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yato_n0ragami) [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:tihonbzr@gmail.com)
 
 ---
 
